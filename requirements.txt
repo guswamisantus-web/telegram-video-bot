@@ -1,5 +1,5 @@
 python-telegram-bot==20.7
-yt-dlp==2025.01.22
+yt-dlp==2025.01.15
 python-dotenv==1.0.1
 ffmpeg-python==0.2.0
 pydantic==2.9.2
